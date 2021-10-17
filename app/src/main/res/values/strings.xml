@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name" translatable="false">Glaassees</string>
+    <string name="myLinc" translatable="false">https://t.me/crazyeden</string>
+    <string name="play">Play</string>
+    <string name="Settings">Settings</string>
+    <string name="About">About</string>
+    <string name="Application_Name">Application Name</string>
+    <string name="Version">Version</string>
+    <string name="Version_Code">Version code</string>
+    <string name="Ok">OK</string>
+    <string name="setting_timer">Timer</string>
+    <string name="timer_time">Seconds:</string>
+    <string name="question">Under which cup is the ball?</string>
+    <string name="timer">Timer:</string>
+    <string name="game_Win">You guessed it, there was a ball here</string>
+    <string name="game_over">You guessed wrong, there is no ball here</string>
+    <string name="back_main">Back to main menu</string>
+    <string name="save">Save</string>
+    <string name="plus" translatable="false">+</string>
+    <string name="minus" translatable="false">-</string>
+</resources>

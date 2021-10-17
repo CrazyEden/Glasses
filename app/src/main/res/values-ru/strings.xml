@@ -1,0 +1,17 @@
+<resources>
+    <string name="play">Играть</string>
+    <string name="Settings">Настройки</string>
+    <string name="About">О приложении</string>
+    <string name="Application_Name">Название приложения</string>
+    <string name="Version">Версия</string>
+    <string name="Version_Code">Версия кода</string>
+    <string name="Ok">Oк</string>
+    <string name="setting_timer">Таймер</string>
+    <string name="timer_time">Секунд:</string>
+    <string name="question">Под каким стаканчиком мяч?</string>
+    <string name="timer">таймер:</string>
+    <string name="game_Win">Вы угадали, здесь был мячик</string>
+    <string name="game_over">Вы ошиблись, здесь нет мяча</string>
+    <string name="back_main">Вернуться вглавное меню</string>
+    <string name="save">Сохранить</string>
+</resources>
